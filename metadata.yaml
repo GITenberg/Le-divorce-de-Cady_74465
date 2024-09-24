@@ -1,0 +1,34 @@
+_repo: Le-divorce-de-Cady_74465
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pert, Camille
+    aliases:
+    - Grille de Rougeul, Louise-Hortense
+    - Rougeul, Hortense Grille
+    - Pert, Kamil
+    birthdate: 1865
+    deathdate: 1952
+    gutenberg_agent_id: '57202'
+    url: http://www.gutenberg.org/2009/agents/57202
+    wikipedia: https://fr.wikipedia.org/wiki/Camille_Pert
+description: ''
+gutenberg_issued: '2024-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74465'
+language: fr
+pgterms:marc904: https://archive.org/details/pert-cady-mariee/page/n331
+pgterms:marc905: 20231221231114pert
+pgterms:marc906: '1915'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aParis :$bLa renaissance du livre, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le divorce de Cady
+url: http://www.gutenberg.org/ebooks/74465
