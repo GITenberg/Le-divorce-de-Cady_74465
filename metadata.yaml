@@ -1,5 +1,8 @@
 _repo: Le-divorce-de-Cady_74465
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74465-h/images/cover.jpg
 creator:
   author:
     agent_name: Pert, Camille
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57202
     wikipedia: https://fr.wikipedia.org/wiki/Camille_Pert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74465#Le-divorce-de-Cady
 gutenberg_issued: '2024-09-23'
 gutenberg_type: Text
 identifiers:
